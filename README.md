@@ -7,7 +7,7 @@ This is a personal portfolio website for Elvis, a Web Developer & AI Enthusiast.
 - **Movie Ranking Project:** 🎬 A web page ranking favorite movies.
 - **Birthday Invite Project:** 🎉 A sample birthday invitation web page.
 - **About Me:** 👤 Information about Elvis.
-- **Contact Me:** 📬 Contact information and form.
+- **Contact Me:** 📬 Contact information.
 
 ## Project Structure 🗂️
 ```
